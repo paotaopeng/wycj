@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="采集照片"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/margin_horizontal"
+        android:layout_marginRight="@dimen/margin_horizontal"
+        android:layout_weight="99"
+        android:orientation="vertical" >
+
+        <ImageView
+            android:id="@+id/take_photo_imageview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:contentDescription="@string/content_description_photo" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_weight="1"
+            android:orientation="horizontal" >
+
+            <ImageButton
+                android:id="@+id/take_photo_take"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/icon_width_take_photo"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/content_description_take_photo"
+                android:scaleType="centerInside"
+                android:src="@drawable/camera" />
+
+            <ImageButton
+                android:id="@+id/take_photo_delete"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/icon_width_take_photo"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:contentDescription="@string/content_description_delete"
+                android:scaleType="centerInside"
+                android:src="@drawable/delete" />
+
+            <ImageButton
+                android:id="@+id/take_photo_pre"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/icon_width_take_photo"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:scaleType="centerInside"
+                android:src="@drawable/left" />
+
+            <TextView
+                android:id="@+id/take_photo_current_index"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/icon_width_take_photo"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:scaleType="centerInside"
+                android:textColor="@android:color/black"
+                android:textIsSelectable="false"
+                android:textSize="@dimen/ts_large" />
+
+            <ImageButton
+                android:id="@+id/take_photo_next"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/icon_width_take_photo"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:gravity="center"
+                android:scaleType="centerInside"
+                android:src="@drawable/right" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_marginTop="20dp"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/bt_finish"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="确认"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/bt_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="返回"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn" />
+    </LinearLayout>
+
+</LinearLayout>

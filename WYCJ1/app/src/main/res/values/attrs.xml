@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="InputView">
+        <attr name="title" format="string" />
+        <attr name="dict_name" format="string" />
+        <attr name="necessary" format="boolean" />
+        <attr name="lines" format="integer" />
+        <attr name="len" format="integer" />
+        <attr name="digits" format="string" />
+        <attr name="prefix" format="string" />
+        <attr name="suffix" format="string" />
+        <attr name="hint" format="string" />
+        <attr name="show" format="boolean" />
+        <attr name="export" format="boolean" />
+        <attr name="type">
+            <enum name="edit_text" value="0" />
+            <enum name="id_card" value="1" />
+            <enum name="number" value="2" />
+            <enum name="number_signed" value="3" />
+            <enum name="number_decimal" value="4" />
+            <enum name="phone" value="5" />
+            <enum name="word" value="6" />
+            <enum name="dict" value="7" />
+            <enum name="level_dict" value="8" />
+            <enum name="date" value="9" />
+            <enum name="text" value="10" />
+        </attr>
+    </declare-styleable>
+
+</resources>

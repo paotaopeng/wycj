@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="数据导入"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <ListView
+        android:id="@+id/lv_file"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="99" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_weight="1" >
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:onClick="importData"
+            android:text="导入"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:onClick="back"
+            android:text="返回"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn" />
+    </LinearLayout>
+
+</LinearLayout>

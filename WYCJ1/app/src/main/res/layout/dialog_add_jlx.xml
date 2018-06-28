@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.golic.wycj"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:orientation="vertical" >
+
+    <com.golic.wycj.ui.InputView
+        android:id="@+id/input_jlx_dm"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        app:len="14"
+        app:necessary="true"
+        app:title="代码"
+        app:type="number" >
+    </com.golic.wycj.ui.InputView>
+
+    <com.golic.wycj.ui.InputView
+        android:id="@+id/input_jlx_mc"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        app:len="16"
+        app:necessary="true"
+        app:title="名称" >
+    </com.golic.wycj.ui.InputView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp" >
+
+        <Button
+            android:id="@+id/bt_save"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="确定"
+            android:textSize="@dimen/ts_bottom_btn" />
+
+        <Button
+            android:id="@+id/bt_cancle"
+            android:layout_width="0dp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="取消"
+            android:textSize="@dimen/ts_bottom_btn" />
+    </LinearLayout>
+
+</LinearLayout>

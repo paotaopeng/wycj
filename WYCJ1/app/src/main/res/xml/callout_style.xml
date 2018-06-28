@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <calloutViewStyle
+        anchor="9dip"
+        cornerCurve="15dip"
+        flat="true"
+        frameColor="#000000" >
+    </calloutViewStyle>
+
+</resources>

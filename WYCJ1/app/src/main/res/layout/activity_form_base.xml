@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res/com.golic.wycj"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="标准地址"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/margin_horizontal"
+        android:layout_marginRight="@dimen/margin_horizontal"
+        android:layout_weight="99" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_xzqh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="TC_XZQH"
+                app:necessary="true"
+                app:title="行政区划"
+                app:type="level_dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_jlx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="DZ_JLX"
+                app:necessary="true"
+                app:title="街路巷"
+                app:type="dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_mpqzsx"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:title="门牌前置属性" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_mpqz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="DZ_MPQZ"
+                app:title="门牌前缀"
+                app:type="dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_mph"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:len="4"
+                app:necessary="true"
+                app:title="门牌号"
+                app:type="number" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_mphz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="DZ_MPHZ"
+                app:necessary="true"
+                app:title="门牌后缀"
+                app:type="dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_fh"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                app:len="4"
+                app:title="副号"
+                app:type="number" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_fhhz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="DZ_FHHZ"
+                app:title="副号后缀"
+                app:type="dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_mply"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:dict_name="DZ_MPLY"
+                app:necessary="true"
+                app:title="门牌来源"
+                app:type="dict" >
+            </com.golic.wycj.ui.InputView>
+
+            <com.golic.wycj.ui.InputView
+                android:id="@+id/input_bz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:lines="3"
+                app:title="地址备注" >
+            </com.golic.wycj.ui.InputView>
+
+            <LinearLayout
+                android:id="@+id/ll_zz"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:visibility="gone" >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="90"
+                        android:src="@drawable/callout_divider"
+                        tools:ignore="ContentDescription" />
+
+                    <CheckBox
+                        android:id="@+id/cb_sz"
+                        android:layout_width="120dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:checked="false"
+                        android:text="私宅" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_zz_xq"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_building_xqm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:title="小区名" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_building_zlqz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_ZLQZ"
+                        app:title="幢楼前缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_building_zlh"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:necessary="true"
+                        app:title="幢楼号"
+                        app:type="number" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_building_zlhz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_ZLHZ"
+                        app:necessary="true"
+                        app:title="幢楼后缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_more"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <LinearLayout
+                    android:id="@+id/ll_more_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content" >
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="90"
+                        android:src="@drawable/callout_divider" />
+
+                    <ImageView
+                        android:id="@+id/iv_down"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_vertical"
+                        android:layout_weight="2"
+                        android:src="@drawable/down_icon" />
+
+                    <TextView
+                        android:layout_width="60dp"
+                        android:layout_height="50dp"
+                        android:layout_weight="1"
+                        android:gravity="center"
+                        android:text="更多"
+                        android:textSize="20sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/ll_extra_dz"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_xqm"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="20dp"
+                        app:title="写字楼名称" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_zlqz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_ZLQZ"
+                        app:title="幢楼前缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_zlh"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:len="3"
+                        app:title="幢楼号"
+                        app:type="number" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_zlhz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_ZLHZ"
+                        app:title="幢楼后缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_dyh"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_DYH"
+                        app:title="单元号"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_lch"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:len="3"
+                        app:title="楼层号"
+                        app:type="number" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_lchz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_LCHZ"
+                        app:title="楼层后缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_sh"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:len="4"
+                        app:title="室号"
+                        app:type="number" >
+                    </com.golic.wycj.ui.InputView>
+
+                    <com.golic.wycj.ui.InputView
+                        android:id="@+id/input_shhz"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:dict_name="DZ_SHHZ"
+                        app:title="室号后缀"
+                        app:type="dict" >
+                    </com.golic.wycj.ui.InputView>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/bt_next"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="下一步"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/bt_take_photo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="拍照"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/bt_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="返回"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn" />
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="工作查询"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <GridView
+        android:id="@+id/gv_gzcx"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_weight="99"
+        android:columnWidth="90dp"
+        android:gravity="center"
+        android:horizontalSpacing="10dp"
+        android:numColumns="3"
+        android:stretchMode="spacingWidth"
+        android:verticalSpacing="10dp" >
+    </GridView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_btn"
+        android:gravity="center"
+        android:onClick="back"
+        android:text="返回"
+        android:textColor="@color/white"
+        android:textSize="@dimen/ts_bottom_btn" />
+
+</LinearLayout>

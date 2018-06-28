@@ -1,0 +1,4 @@
+#Tue Jun 12 13:48:18 CST 2018
+base.0=D\:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+renamed.0=classes.dex
+file.0=D\:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1\\classes.dex

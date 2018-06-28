@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_camera.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\camera.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ywzy_lg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\ywzy_lg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smart_edit_text_disable.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\smart_edit_text_disable.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_b.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\delete_b.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ywzy.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_ywzy.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zhjg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\zhjg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ggsj_list.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_ggsj_list.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qtjtxx.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_qtjtxx.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_reg_checkbox.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\reg_checkbox.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_bg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\top_bg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_single_choise.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_single_choise.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_g.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\right_g.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_on.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\check_on.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_entrance_item.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\entrance_item.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ggss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\ggss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cursor.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\cursor.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qtjtxx.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\qtjtxx.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_b.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\camera_b.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zhjg.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_zhjg.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_off.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\check_off.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qtdw.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_qtdw.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ggsj.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_ggsj.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dict_select_icon.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\dict_select_icon.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cs.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\cs.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_qsydw.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_qsydw.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qsydw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\qsydw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_jtss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\jtss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_zzlist.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_zzlist.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_linbbbb.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\linbbbb.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ywzy_jg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\ywzy_jg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smart_edit_text_nomal.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\smart_edit_text_nomal.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_analyse.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_data_analyse.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entrance_top.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\entrance_top.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_callout_move.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\callout_move.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_input_view.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\input_view.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_button_disable.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\blue_button_disable.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ywzy_jg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\ywzy_jg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gis_zoomfull.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\gis_zoomfull.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qtdw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\qtdw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_match_ywzy.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_match_ywzy.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_zz.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_zz.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_add_jlx.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\dialog_add_jlx.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_name_error.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_name_error.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gis_zoomin.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\gis_zoomin.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ywzy_wb.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\ywzy_wb.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_name_error_data_list.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_name_error_data_list.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user_manager.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_user_manager.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blue_button_selector.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\blue_button_selector.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_normal.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\bottom_normal.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_background.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\splash_background.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ywzy_list.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_ywzy_list.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_work_day.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_work_day.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_list_layout.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\dialog_list_layout.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_disable.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\bottom_disable.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_button_pressed.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\blue_button_pressed.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_bg_d.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\home_btn_bg_d.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zhjg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\zhjg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_room_background.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\room_background.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cs.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_cs.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_left.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\left.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_export.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_data_export.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ywzy_wb.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\ywzy_wb.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_default.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\check_default.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_leftone.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\leftone.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_o.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\right_o.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_work_search.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_work_search.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ggss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\ggss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_ggsj_callout.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\ggsj_callout.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_help.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\help.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qtjtxx.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\qtjtxx.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_blue_button.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\blue_button.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tab_btn.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\tab_btn.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_form_base.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_form_base.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notice_background.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\notice_background.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_bzdz_callout.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\bzdz_callout.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_pressed.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\bottom_pressed.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ggss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\ggss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_ywzy_name_matching_error.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_ywzy_name_matching_error.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_right.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\right.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zz.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\zz.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_non_mph.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_non_mph.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_check_pressed.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\check_pressed.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\xml_callout_style.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\xml\\callout_style.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entrance_floor_setting.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\entrance_floor_setting.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_login_div.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\background_login_div.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_zz.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\zz.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background_login.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\background_login.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_entrance_bottom.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\entrance_bottom.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ywzy_wb.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\ywzy_wb.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_user_edit.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\dialog_user_edit.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_b.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\left_b.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_jtss.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_jtss.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_callout_bind.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\callout_bind.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_floor.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_floor.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qtdw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\qtdw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smart_edit_text_selected.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\smart_edit_text_selected.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bule_background.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\bule_background.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qtjtxx.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\qtjtxx.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_qsydw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\qsydw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_callout_divider.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\callout_divider.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_jtss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\jtss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_task.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jtss.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\jtss.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_delete.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_data_delete.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_right_b.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\right_b.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cs.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\cs.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bottom_btn.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable\\bottom_btn.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gis_zoomout.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\gis_zoomout.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_form_building.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_form_building.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_qtdw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\qtdw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ggss.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_ggss.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_gis_location.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\gis_location.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ywzy_lg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\ywzy_lg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_g.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\delete_g.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ywzy_lg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\ywzy_lg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_g.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\camera_g.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_user.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\item_user.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_down_icon.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\down_icon.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_map_location.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\map_location.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_o.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\left_o.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_floor_rooms_setting.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\floor_rooms_setting.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_zz.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\zz.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_non_mph_building.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_non_mph_building.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_cs.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\cs.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_camera_o.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\camera_o.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_qsydw.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xxhdpi\\qsydw.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_left_g.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\left_g.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ywzy_jg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\ywzy_jg.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_delete_o.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\delete_o.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rihgt.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\rihgt.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_widget_take_photo.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\widget_take_photo.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_mid.9.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-hdpi\\mid.9.png"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_data_import.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_data_import.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_ywzy_name_matching_error.xml.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\layout\\activity_ywzy_name_matching_error.xml"
+    },
+    {
+        "merged": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_zhjg.png.flat",
+        "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\drawable-xhdpi\\zhjg.png"
+    }
+]

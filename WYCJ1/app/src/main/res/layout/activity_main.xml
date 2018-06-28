@@ -1,0 +1,276 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <com.esri.android.map.MapView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/map"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" >
+    </com.esri.android.map.MapView>
+
+    <HorizontalScrollView
+        android:id="@+id/top_control"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:id="@+id/gis_toolbar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_small"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bt_user"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/leftone"
+                android:gravity="center"
+                android:text="用户管理"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/bt_new"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/leftone"
+                android:gravity="center"
+                android:text="设施采集"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal"
+                android:visibility="visible" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:src="@drawable/linbbbb" />
+
+            <Button
+                android:id="@+id/bt_add_jlx"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/mid"
+                android:gravity="center"
+                android:text="街路巷"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:src="@drawable/linbbbb" />
+
+            <Button
+                android:id="@+id/bt_layer_control"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/mid"
+                android:gravity="center"
+                android:text="图层控制"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal"
+                android:visibility="visible" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:src="@drawable/linbbbb" />
+
+            <Button
+                android:id="@+id/bt_work_search"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/mid"
+                android:gravity="center"
+                android:text="工作查询"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal"
+                android:visibility="visible" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:src="@drawable/linbbbb" />
+
+            <Button
+                android:id="@+id/bt_data_analyse"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/mid"
+                android:gravity="center"
+                android:text="质量检查"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal"
+                android:visibility="visible" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:src="@drawable/linbbbb" />
+
+            <LinearLayout
+                android:id="@+id/ll_administrator"
+                android:layout_width="wrap_content"
+                android:layout_height="@dimen/height_large"
+                android:visibility="gone" >
+
+                <Button
+                    android:id="@+id/bt_data_delete"
+                    android:layout_width="@dimen/width_normal"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/mid"
+                    android:gravity="center"
+                    android:text="批量删除"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/contnet_text_normal" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/linbbbb" />
+
+                <Button
+                    android:id="@+id/bt_data_import"
+                    android:layout_width="@dimen/width_normal"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/mid"
+                    android:gravity="center"
+                    android:text="数据导入"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/contnet_text_normal" />
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/linbbbb" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/bt_data_export"
+                android:layout_width="@dimen/width_normal"
+                android:layout_height="@dimen/height_large"
+                android:background="@drawable/rihgt"
+                android:gravity="center"
+                android:text="数据导出"
+                android:textColor="@color/white"
+                android:textSize="@dimen/contnet_text_normal" />
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_mid_control_add"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_big"
+        android:layout_below="@id/top_control"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/bt_add"
+            android:layout_width="@dimen/width_normal"
+            android:layout_height="match_parent"
+            android:text="添加" />
+
+        <Button
+            android:id="@+id/bt_clear"
+            android:layout_width="@dimen/width_normal"
+            android:layout_height="match_parent"
+            android:text="重新采集" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_mid_control_update"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/height_big"
+        android:layout_below="@id/top_control"
+        android:layout_marginTop="20dp"
+        android:visibility="invisible" >
+
+        <Button
+            android:id="@+id/bt_update"
+            android:layout_width="@dimen/width_normal"
+            android:layout_height="match_parent"
+            android:enabled="false"
+            android:text="确定" />
+
+        <Button
+            android:id="@+id/bt_cancle"
+            android:layout_width="@dimen/width_normal"
+            android:layout_height="match_parent"
+            android:text="取消" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_notice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/top_control"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/notice_background"
+        android:visibility="gone" >
+
+        <ImageView
+            android:id="@+id/im_type"
+            android:layout_width="60dp"
+            android:layout_height="60dp" />
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" >
+
+        <LinearLayout
+            android:id="@+id/ll_data_control"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/map_height_large"
+            android:layout_alignParentLeft="true"
+            android:layout_marginBottom="15dp" >
+
+            <Button
+                android:id="@+id/bt_location"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/gis_location" />
+
+            <Button
+                android:id="@+id/bt_help"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/help" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_zoom_control"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/height_large"
+            android:layout_alignParentRight="true" >
+
+            <Button
+                android:id="@+id/bt_zoomout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/gis_zoomout" />
+
+            <Button
+                android:id="@+id/bt_zoomfull"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/gis_zoomfull" />
+
+            <Button
+                android:id="@+id/bt_zoomin"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/gis_zoomin" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

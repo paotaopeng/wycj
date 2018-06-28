@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,5,11,6,10,8,7,4,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "56,149,507,192,437,304,252,98,370",
+                        "endColumns": "41,42,57,59,69,65,51,50,66",
+                        "endOffsets": "93,187,560,247,502,365,299,144,432"
+                    },
+                    "to": {
+                        "startLines": "46,47,48,49,50,51,52,53,54",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2518,2560,2603,2661,2721,2791,2857,2909,2960",
+                        "endColumns": "41,42,57,59,69,65,51,50,66",
+                        "endOffsets": "2555,2598,2656,2716,2786,2852,2904,2955,3022"
+                    }
+                },
+                {
+                    "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "19,217",
+                        "endLines": "4,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "209,843"
+                    },
+                    "to": {
+                        "startLines": "55,58",
+                        "startColumns": "4,4",
+                        "startOffsets": "3027,3220",
+                        "endLines": "57,69",
+                        "endColumns": "12,12",
+                        "endOffsets": "3215,3835"
+                    }
+                },
+                {
+                    "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,3,7,8,6,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "144,59,228,270,187,101",
+                        "endColumns": "41,40,40,41,39,41",
+                        "endOffsets": "181,95,264,307,222,138"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,138,179,221,261",
+                        "endColumns": "41,40,40,41,39,41",
+                        "endOffsets": "92,133,174,216,256,298"
+                    }
+                },
+                {
+                    "source": "D:\\develop\\Android\\AndroidStudioProjects\\WYCJ1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "23,7,8,25,12,13,11,26,14,22,21,17,18,15,9,16,3,5,4,6,24,27,19,20,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1053,272,324,1149,511,554,466,1201,606,1004,955,760,812,662,375,712,59,170,117,223,1103,1255,872,914,420",
+                        "endColumns": "48,50,49,50,41,50,43,52,54,47,47,50,58,48,43,46,56,51,51,47,44,39,40,39,44",
+                        "endOffsets": "1097,318,369,1195,548,600,505,1249,656,1047,998,806,866,706,414,754,111,217,164,266,1143,1290,908,949,460"
+                    },
+                    "to": {
+                        "startLines": "21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1306,1355,1406,1456,1507,1549,1600,1644,1697,1752,1800,1848,1899,1958,2007,2051,2098,2155,2207,2259,2307,2352,2392,2433,2473",
+                        "endColumns": "48,50,49,50,41,50,43,52,54,47,47,50,58,48,43,46,56,51,51,47,44,39,40,39,44",
+                        "endOffsets": "1350,1401,1451,1502,1544,1595,1639,1692,1747,1795,1843,1894,1953,2002,2046,2093,2150,2202,2254,2302,2347,2387,2428,2468,2513"
+                    }
+                }
+            ]
+        }
+    ]
+}

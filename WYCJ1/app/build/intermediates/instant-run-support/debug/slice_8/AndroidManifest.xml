@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.golic.wycj"
+      android:versionCode="2"
+      android:versionName="升级版"
+      split="lib_slice_8_apk">
+</manifest>

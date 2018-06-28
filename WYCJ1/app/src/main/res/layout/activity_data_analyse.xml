@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/rg_tab"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/height_biger_normal"
+        android:background="@drawable/bule_background"
+        android:gravity="center_vertical"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/rb_name"
+            style="@style/tab_select"
+            android:tag="radio_button1"
+            android:text="公共数据" />
+
+        <ImageView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/linbbbb" />
+
+        <RadioButton
+            android:id="@+id/rb_mph"
+            style="@style/tab_select"
+            android:tag="radio_button2"
+            android:text="标准地址" />
+
+        <ImageView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/linbbbb" />
+
+        <RadioButton
+            android:id="@+id/rb_ywzy"
+            style="@style/tab_select"
+            android:tag="radio_button3"
+            android:text="业务专用" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/iv_cursor"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rg_tab"
+        android:scaleType="matrix"
+        android:src="@drawable/cursor" />
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_big"
+        android:layout_alignParentBottom="true" >
+
+        <Button
+            android:id="@+id/bt_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:onClick="back"
+            android:text="@string/back_button"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn" />
+    </LinearLayout>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/vp"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_above="@id/ll_bottom"
+        android:layout_below="@id/iv_cursor"
+        android:layout_gravity="center"
+        android:flipInterval="30"
+        android:persistentDrawingCache="animation" />
+
+</RelativeLayout>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="数据导出"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <LinearLayout
+        android:id="@+id/ll_ggsj"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/tv_title"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="30dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="公共数据"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/cb_ggsj"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/reg_checkbox"
+            android:button="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_bzdz"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/ll_ggsj"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="标准地址"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/cb_bzdz"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/reg_checkbox"
+            android:button="@null" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@id/ll_bzdz"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="20dp" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="3"
+            android:gravity="center_vertical"
+            android:text="业务专用"
+            android:textSize="20sp" />
+
+        <CheckBox
+            android:id="@+id/cb_ywzy"
+            android:layout_width="50dp"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/reg_checkbox"
+            android:button="@null" />
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/ll_bottom"
+        android:layout_marginBottom="20dp"
+        android:onClick="export"
+        android:text="导出"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_alignParentBottom="true" >
+
+        <Button
+            android:id="@+id/bt_all"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="全选"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/bt_back"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:background="@drawable/bottom_btn"
+            android:gravity="center"
+            android:text="返回"
+            android:textColor="@color/white"
+            android:textSize="@dimen/ts_bottom_btn"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".GgsjListActivity" >
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/logo_line_height"
+        android:background="@drawable/top_bg"
+        android:gravity="center"
+        android:text="公共数据"
+        android:textColor="@color/black"
+        android:textIsSelectable="false"
+        android:textSize="@dimen/ts_title" />
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="100" >
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@color/gray"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="250dp"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:text="名称"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tv_title_dz"
+                    android:layout_width="350dp"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:text="地址"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="100dp"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:text="采集人"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="250dp"
+                    android:layout_height="30dp"
+                    android:gravity="center"
+                    android:text="采集时间"
+                    android:textSize="16sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/lv_ggsj"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:cacheColorHint="@android:color/transparent"
+                android:orientation="vertical" >
+            </ListView>
+        </LinearLayout>
+    </HorizontalScrollView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_btn_height"
+        android:layout_weight="1"
+        android:background="@drawable/bottom_btn"
+        android:gravity="center"
+        android:onClick="back"
+        android:text="返回"
+        android:textColor="@color/white"
+        android:textSize="@dimen/ts_bottom_btn" />
+
+</LinearLayout>

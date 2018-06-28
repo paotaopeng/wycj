@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background_login"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/login_div"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dip"
+        android:background="@drawable/background_login_div"
+        android:padding="15dip" >
+
+        <!-- 账号 -->
+
+        <TextView
+            android:id="@+id/login_user_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="5dp"
+            android:text="帐号" />
+
+        <EditText
+            android:id="@+id/username_edit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login_user_input"
+            android:hint="输入帐号"
+            android:inputType="text"
+            android:singleLine="true" />
+        <!-- 密码 text -->
+
+        <TextView
+            android:id="@+id/login_password_input"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/username_edit"
+            android:layout_marginTop="3dp"
+            android:text="密码" />
+
+        <EditText
+            android:id="@+id/password_edit"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/login_password_input"
+            android:inputType="numberPassword"
+            android:maxLength="8"
+            android:singleLine="true" />
+        <!-- 登录button -->
+
+        <RadioGroup
+            android:id="@+id/rg_config"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/password_edit"
+            android:orientation="horizontal" >
+
+            <RadioButton
+                android:id="@+id/rb_low"
+                android:text="low    " />
+
+            <RadioButton
+                android:id="@+id/rb_normal"
+                android:checked="true"
+                android:text="normal   " />
+
+            <RadioButton
+                android:id="@+id/rb_high"
+                android:text="high   " />
+        </RadioGroup>
+
+        <Button
+            android:id="@+id/signin_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/rg_config"
+            android:layout_below="@id/rg_config"
+            android:background="@drawable/blue_button_selector"
+            android:onClick="login"
+            android:text="登录"
+            android:textColor="@android:color/white" />
+    </RelativeLayout>
+
+</LinearLayout>
